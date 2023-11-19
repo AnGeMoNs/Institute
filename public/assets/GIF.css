@@ -1,0 +1,12 @@
+.background-gif {
+    background-image: url('https://media.giphy.com/media/RioSw0Z4dzTmgaund3/giphy.gif');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.background-gif-1 {
+    background-image: url('https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmJsbWJmaG9zcHF0dmJhYjFtd2VsaTJydmUyODVpdHBraGIybjNjbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oTjoawKEq3wYD5fKEh/giphy.gif');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
